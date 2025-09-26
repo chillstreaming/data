@@ -1,0 +1,89 @@
+{
+"name": "Chill Streaming",
+"short_name": "Chill Streaming",
+"start_url": "https://chillstreaming.blogspot.com/",
+"display": "standalone",
+"background_color": "#ffffff",
+"theme_color": "#0b8877",
+"icons": [
+{
+"src":
+"https://lh3.googleusercontent.com/pw/AP1GczPOg9pyHqwX-Oz735Fa4MYFLrr_GQ28xo5GL5tkFC9ojrRoFoq81A77PgRCkp0gH_Q0JLqOAba2RmbQ-ajaLMnc_Sd7O1BrSIVth7EAoYWM4Ja1iXLgp_Wx5Wu0F0TRKpUN_dRgX8PszdSNl6AgkK9L=w192-h192",
+"sizes": "192x192",
+"type": "image/png",
+"purpose": "any maskable"
+},
+{
+"src":
+"https://lh3.googleusercontent.com/pw/AP1GczPOg9pyHqwX-Oz735Fa4MYFLrr_GQ28xo5GL5tkFC9ojrRoFoq81A77PgRCkp0gH_Q0JLqOAba2RmbQ-ajaLMnc_Sd7O1BrSIVth7EAoYWM4Ja1iXLgp_Wx5Wu0F0TRKpUN_dRgX8PszdSNl6AgkK9L=w384-h384",
+"sizes": "384x384",
+"type": "image/png",
+"purpose": "any maskable"
+},
+{
+"src":
+"https://lh3.googleusercontent.com/pw/AP1GczPOg9pyHqwX-Oz735Fa4MYFLrr_GQ28xo5GL5tkFC9ojrRoFoq81A77PgRCkp0gH_Q0JLqOAba2RmbQ-ajaLMnc_Sd7O1BrSIVth7EAoYWM4Ja1iXLgp_Wx5Wu0F0TRKpUN_dRgX8PszdSNl6AgkK9L=w512-h512",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "any maskable"
+}
+],
+"shortcuts": [
+{
+"name": "Chill Club",
+"short_name": "Club",
+"description": "Accede al Chill Club",
+"url": "https://chillstreaming.blogspot.com/p/club.html",
+"icons": [
+{
+"src":
+"https://lh3.googleusercontent.com/pw/AP1GczNCU4AHtpwhCQMh7xInm4SZAChxKp81z8PzkBczjk70FG2gJNNEUYx_mLsDWXirGTzMOkPR7_u9Tr-X1OMBS7oToZPxYXCqSJYFoYVT7BOUYxs-UpQmb-UlzfjO6er4cfbuLIGRjl-0XTgRVvEZPs3l=w192-h192",
+"sizes": "192x192",
+"type": "image/png"
+}
+]
+},
+{
+"name": "Soporte",
+"short_name": "Soporte",
+"description": "Chatea con soporte en WhatsApp",
+"url": "https://chillstreaming.blogspot.com/p/soporte.html",
+"icons": [
+{
+"src":
+"https://lh3.googleusercontent.com/pw/AP1GczM44-e1tgGDJ-KDJ0ntyPMGuomyzVKxg6Xcdrq7-HuOpmAKL-WvTbAPo_cSVxvfGob0Gf-DGzY1LofFGd9yM3plnv-PDYy5we6km9Tller4BC8oK8-lZz3kF5hZjmqxHYKvTBN-i_qHw0-8VMusN8jX=w192-h192",
+"sizes": "192x192",
+"type": "image/png"
+}
+]
+},
+{
+"name": "Renovación",
+"short_name": "Renovar",
+"description": "Renueva tu plan de Chill Streaming",
+"url": "https://chillstreaming.blogspot.com/p/renovacion.html",
+"icons": [
+{
+"src":
+"https://lh3.googleusercontent.com/pw/AP1GczN6Fqo13Tl0D1oxjgevIf_89tiV3hbHQma_W7ymR5QYpB7WONAbm2PuYj1LeLIOadVZW8bwYw1gr1YeJpekBMUIJfKRa-nvjy2N4d9Ln3oYgMngCX95Fq23TzYR3t2MCX9JTELsNXEpyMSP3gjHh_mk=w192-h192",
+"sizes": "192x192",
+"type": "image/png"
+}
+]
+},
+{
+"name": "Redes Oficiales",
+"short_name": "Redes",
+"description": "Accede a nuestras redes oficiales",
+"url": "https://chillstreaming.blogspot.com/p/redes.html",
+"icons": [
+{
+"src":
+"https://lh3.googleusercontent.com/pw/AP1GczP-w2d1krgjo_Z1mE3TQ1wJcaWawNVl1oHR2nDoC84cnyc33wYmdiJsCxNzIf-ng3lUIHte0LmUhPK3q9TaprDmOidj2EfV_RxSsE7MuFVN-eNiiFSeLUu1sckSd4-2B8SJVlH2cv3gSLw-rjmv_gqU=w192-h192",
+"sizes": "192x192",
+"type": "image/png"
+}
+]
+}
+]
+}
